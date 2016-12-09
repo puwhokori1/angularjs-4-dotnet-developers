@@ -1,0 +1,16 @@
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet\LegacyDotNet\bin\LegacyDotNet.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet\LegacyDotNet\bin\LegacyDotNet.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet\LegacyDotNet\obj\Debug\LegacyDotNet.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet\LegacyDotNet\obj\Debug\LegacyDotNet.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-delivering-code\LegacyDotNet\bin\LegacyDotNet.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-delivering-code\LegacyDotNet\bin\LegacyDotNet.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-delivering-code\LegacyDotNet\obj\Debug\LegacyDotNet.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-delivering-code\LegacyDotNet\obj\Debug\LegacyDotNet.pdb
+C:\Demos\LegacyDotNet-delivering-code\LegacyDotNet\bin\LegacyDotNet.dll
+C:\Demos\LegacyDotNet-delivering-code\LegacyDotNet\bin\LegacyDotNet.pdb
+C:\Demos\LegacyDotNet-delivering-code\LegacyDotNet\obj\Debug\LegacyDotNet.dll
+C:\Demos\LegacyDotNet-delivering-code\LegacyDotNet\obj\Debug\LegacyDotNet.pdb
+C:\Demos\LegacyDotNet-bootstrapping\LegacyDotNet\bin\LegacyDotNet.dll
+C:\Demos\LegacyDotNet-bootstrapping\LegacyDotNet\bin\LegacyDotNet.pdb
+C:\Demos\LegacyDotNet-bootstrapping\LegacyDotNet\obj\Debug\LegacyDotNet.dll
+C:\Demos\LegacyDotNet-bootstrapping\LegacyDotNet\obj\Debug\LegacyDotNet.pdb

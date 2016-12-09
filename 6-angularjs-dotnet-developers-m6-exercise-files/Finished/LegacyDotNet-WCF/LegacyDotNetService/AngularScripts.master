@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AngularScripts.master.cs" Inherits="LegacyDotNetService.AngularScripts" %>
+<asp:Content ID="HeadContent" ContentPlaceHolderID="HeadContent" runat="server">
+	<asp:ContentPlaceHolder ID="HeadContent" runat="server"/>
+</asp:Content>
+<asp:Content ID="MainContent" ContentPlaceHolderID="MainContent" runat="server">
+	<asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+</asp:Content>
+<asp:Content ID="ScriptsContent" ContentPlaceHolderID="ScriptsContent" runat="server">
+	<script src="/Scripts/angular.js"></script>
+	<script src="/Scripts/angular-resource.min.js"></script>
+	<script src="/app/app.js"></script>
+	<script src="/app/data.js"></script>
+	<script src="/app/scCatalogCtrl.js"></script>
+	<script src="/app/scFollowedInstructorsCtrl.js"></script>
+	<script src="/app/scRegistrationCtrl.js"></script>
+	<script src="/app/scScheduleCtrl.js"></script>
+</asp:Content>

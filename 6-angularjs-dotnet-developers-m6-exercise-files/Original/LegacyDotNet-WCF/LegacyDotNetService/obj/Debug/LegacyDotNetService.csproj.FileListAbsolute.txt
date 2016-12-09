@@ -1,0 +1,9 @@
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet-WCF\LegacyDotNetService\bin\LegacyDotNetService.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet-WCF\LegacyDotNetService\bin\LegacyDotNetService.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet-WCF\LegacyDotNetService\obj\Debug\LegacyDotNetService.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Finished\LegacyDotNet-WCF\LegacyDotNetService\obj\Debug\LegacyDotNetService.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-WCF\LegacyDotNetService\bin\LegacyDotNetService.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-WCF\LegacyDotNetService\bin\LegacyDotNetService.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-WCF\LegacyDotNetService\obj\Debug\LegacyDotNetService.dll
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-WCF\LegacyDotNetService\obj\Debug\LegacyDotNetService.pdb
+C:\dev\Pluralsight\AngularDotNet\Module6LegacyDotNet\Demos\Original\LegacyDotNet-WCF\LegacyDotNetService\obj\Debug\LegacyDotNetService.csprojResolveAssemblyReference.cache

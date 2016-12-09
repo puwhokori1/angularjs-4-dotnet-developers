@@ -1,0 +1,4 @@
+C:\Dev\Angular4DotNet\Angular4DotNetTests\bin\Debug\Angular4DotNetTests.dll
+C:\Dev\Angular4DotNet\Angular4DotNetTests\bin\Debug\Angular4DotNetTests.pdb
+C:\Dev\Angular4DotNet\Angular4DotNetTests\obj\Debug\Angular4DotNetTests.dll
+C:\Dev\Angular4DotNet\Angular4DotNetTests\obj\Debug\Angular4DotNetTests.pdb
